@@ -3,10 +3,4 @@ variables
 string
 script
 functions
-dsavdsvsd
-sawevwv
-wfwevwef
-qwvwvwe
-wfwevwevqw
-fqewfwewefqWFWEWE
-QWWFQEF
+
