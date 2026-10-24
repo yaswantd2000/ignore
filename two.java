@@ -5,6 +5,3 @@
 sfehth
 afgrht
 wfgreh
-  sacsbdb
-  scsdbfdb
-  acsbrdb
