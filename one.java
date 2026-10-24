@@ -7,4 +7,8 @@ sfegr
 afsege
 swd
 top
+grep
+find
+du
+df -h
 
