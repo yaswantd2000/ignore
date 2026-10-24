@@ -1,0 +1,17 @@
+linux
+shell scripting
+git
+maven
+nexus
+tomcat
+sonarqqube
+jenkins
+docker
+kubernetes
+terraform
+ansible
+grafana
+promethius
+AWS
+github 
+
